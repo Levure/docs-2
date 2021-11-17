@@ -18,7 +18,7 @@ Le [vRack](https://www.ovh.com/fr/solutions/vrack/) est un réseau privé qui vo
 
 - Posséder un [projet Public Cloud](https://docs.ovh.com/fr/public-cloud/creer-un-projet-public-cloud/)
 - Être connecté à votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr){.external}
-- Avoir [créé un utilisateur OpenStack](../../#creer-un-utilisateur-openstack) (facultatif)
+- Avoir [créé un utilisateur OpenStack](../creation-et-suppression-dun-utilisateur-openstack/#creer-un-utilisateur-openstack) (facultatif)
 - Connaissances réseaux élémentaires
 
 ## Présentation des interfaces
@@ -122,7 +122,7 @@ Pour continuer la configuration du vRack depuis l'espace client OVHcloud, poursu
 
 #### Depuis les APIv6 OVHcloud
 
-Pour activer et gérer un vRack depuis les APIv6 OVHcloud, cliquez [ici](../public-cloud-vrack-apiv6/#etape-1-activer-et-gerer-un-vrack) pour consulter le [guide spécifique à cette méthode](../public-cloud-vrack-apiv6/#etape-1-activer-et-gerer-un-vrack).
+Pour activer et gérer un vRack depuis les APIv6 OVHcloud, cliquez [ici](../public-cloud-vrack-apiv6/#etape-1-activer-et-gerer-un-vrack) pour consulter le guide spécifique à cette méthode.
 
 ### Étape 2 : Créer un VLAN dans le vRack
 

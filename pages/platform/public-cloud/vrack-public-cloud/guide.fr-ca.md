@@ -18,7 +18,7 @@ Le [vRack](https://www.ovh.com/ca/fr/solutions/vrack/) est un réseau privé qui
 
 - Posséder un [projet Public Cloud](https://docs.ovh.com/ca/fr/public-cloud/creer-un-projet-public-cloud/)
 - Être connecté à votre [espace client OVHcloud](https://ca.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/ca/fr/&ovhSubsidiary=qc){.external}
-- Avoir [créé un utilisateur OpenStack](../../#creer-un-utilisateur-openstack) (facultatif)
+- Avoir [créé un utilisateur OpenStack](../creation-et-suppression-dun-utilisateur-openstack/#creer-un-utilisateur-openstack) (facultatif)
 - Connaissances réseaux élémentaires
 
 ## Présentation des interfaces
