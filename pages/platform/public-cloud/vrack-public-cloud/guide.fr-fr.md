@@ -110,11 +110,11 @@ Connectez-vous à votre [espace client OVHcloud](https://www.ovh.com/auth/?actio
 
 ![sélection project](images/vrack2021-05.png){.thumbnail}
 
-Cliquez alors sur `Private network`{.action} (1) dans le menu latéral de gauche. 
+Cliquez alors sur `Private network`{.action} dans le menu latéral de gauche. 
 
 ![Private Network](images/vrack2021-02.png){.thumbnail}
 
-Cliquez sur le bouton `Pour commencer, créez un vRack`{.action} (2). Vous devrez alors choisir de créer un nouveau vRack ou d'utiliser un vRack existant. Dans notre exemple, nous allons créer un nouveau vRack. Une fois votre choix effectué, cliquez sur `Créer`{.action}.
+Cliquez sur le bouton `Pour commencer, créez un vRack`{.action}. Vous devrez alors choisir de créer un nouveau vRack ou d'utiliser un vRack existant. Dans notre exemple, nous allons créer un nouveau vRack. Une fois votre choix effectué, cliquez sur `Créer`{.action}.
 
 ![vRack creation](images/vrack3.png){.thumbnail}
 
