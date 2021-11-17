@@ -164,7 +164,7 @@ Si vous cochez la case `Définir un VLAN`, vous devrez choisir un numéro de VLA
 
 Si vous ne cochez pas la case `Définir un VLAN`, vous serez par défaut dans le VLAN 0.
 
-Dans le cas où vous devez faire communiquer des serveurs dédiés OVHcloud avec du VLAN taggué, consultez le guide suivant : [Créer plusieurs VLAN dans le vRack](../..//dedicated/creer-vlan-vrack/).
+Dans le cas où vous devez faire communiquer des serveurs dédiés OVHcloud avec du VLAN taggué, consultez le guide suivant : [Créer plusieurs VLAN dans le vRack](../../dedicated/creer-vlan-vrack/).
 
 La plage DHCP par défaut est en 10.0.0.0/16. Pour modifier cette plage IP, vous devrez obligatoirement passer par les APIv6 OVHcloud.
 
