@@ -188,7 +188,7 @@ If you need assistance, follow this guide first: [Creating an instance in the OV
 ![attach new instance](images/vrack6.png){.thumbnail}
 
 > [!warning]
-> You will be able to connect your instance to *only one* vRack from the OVHcloud Control Panel.
+> You will be able to connect your instance to **only one** vRack from the OVHcloud Control Panel.
 > To add multiple interfaces, you will need to go through the OpenStack or Horizon APIs.
 >
 
