@@ -18,7 +18,7 @@ The [vRack](https://www.ovh.com/world/solutions/vrack/) is a private network tha
 
 - a [Public Cloud project](https://www.ovhcloud.com/en/public-cloud/) in your OVHcloud account
 - access to the [OVHcloud Control Panel](https://ca.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/world/&ovhSubsidiary=we){.external}
-- an OpenStack user (optional)
+- an [OpenStack user](../creation-and-deletion-of-openstack-user/#create-an-openstack-user) (optional)
 - Basic networking knowledge
 
 Creating a vRack or adding an instance into the network can be done using the OVHcloud Control Panel, the OVHcloud APIv6, the OpenStack API, or the Horizon interface.

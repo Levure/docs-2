@@ -18,7 +18,7 @@ OVHcloud [vRack](https://www.ovh.ie/solutions/vrack/) is a private network solut
 
 - a [Public Cloud project](https://www.ovhcloud.com/en-ie/public-cloud/) in your OVHcloud account
 - access to the [OVHcloud Control Panel](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.ie/&ovhSubsidiary=ie)
-- an OpenStack user (optional)
+- an [OpenStack user](../creation-and-deletion-of-openstack-user/#create-an-openstack-user) (optional)
 - basic networking knowledge
 
 ## Interfaces
