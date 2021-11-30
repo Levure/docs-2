@@ -16,7 +16,7 @@ Do you want to use MySQL or MariaDB ? Learn how to create and manage your databa
 - To have viewed [the CloudDB guide](../getting-started-with-clouddb/)
 
 ### What is a MySQL database?
-MySQL is relational database management system developed for increased read performance, unlike other systems
+MySQL is a relational database management system developed for increased read performance, unlike other systems
 
 This is an open-source engine, whose parent company is Oracle.
 
@@ -24,7 +24,7 @@ This is an open-source engine, whose parent company is Oracle.
 ### What is a MariaDB database?
 MariaDB is a derivative (fork) of MySQL.
 
-This engine is 100% compatible, and is "freer" than its sibling MySQL. All the bugs and roadmaps are freely accessible, unlike the Oracle version. In addition, the storage database InnoDB has been replaced by XtraDB and other optimisations, promising performance gains.
+This engine is 100% compatible, and is "freer" than its sibling MySQL. All the bugs and roadmaps are freely accessible, unlike the Oracle version. In addition, the storage database InnoDB has been replaced by XtraDB and other optimizations, promising performance gains.
 
 
 ## Logging in to the database
